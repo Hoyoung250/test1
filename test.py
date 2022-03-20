@@ -3,3 +3,5 @@ touched by user2
 print('123')
 #user2
 print('111')
+#동일
+print('동일')
